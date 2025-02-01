@@ -1,4 +1,0 @@
-Final PID Gains:
-Kp: 0.650
-Ki: 0.008
-Kd: 0.750
